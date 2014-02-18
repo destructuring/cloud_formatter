@@ -1,0 +1,4 @@
+---
+remotes:
+  primary: git@github.com:destructuring/cloud_formatter
+  vendor: git@github.com:songkick/cloud_formatter
